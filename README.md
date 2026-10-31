@@ -6,5 +6,5 @@ A Python tool that audits network device inventories against a YAML policy and g
 . PyYAML 
 ## Usage
 Run the following command:
-'python pa2.py PA2_sample.xml PA2_policy.yaml'
+`python pa2.py PA2_sample.xml PA2_policy.yaml`
 The program prints an inventory summary and generates audit.json in the current directory.
